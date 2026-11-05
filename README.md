@@ -1,0 +1,2 @@
+# HTN03-N07-RFID-STM32F103
+He thong diem danh RFID RC522, SD, LCD I2C va buzzer - STM32F103C8T6 - FreeRTOS
